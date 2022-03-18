@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+## Welcome to Yufei Zheng's Home Pages
 
-You can use the [editor on GitHub](https://github.com/ritaanthem/ritaanthem.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Email:zyf2001@mail.ustc.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Github:[Zhengyufei](https://github.com/ritaanthem)
 
-### Markdown
+## Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a senior student at the Department of Computer Science and Technology at the University of Science and Technology of China.
 
-```markdown
-Syntax highlighted code block
+## Education Experience  
 
-# Header 1
-## Header 2
-### Header 3
+* First year of undergraduate：Qian Xuesen Mechanics Science and Technology Elite Class, Faculty of Engineering Sciences, University of Science and Technology of China (09/2019-07/2020)
 
-- Bulleted
-- List
+   * GPA: 87.26/100      
+   
+   * Ranking:18% 	                	                       
+   
+* Second year of undergraduate：Class 1, Faculty of Computer Science and Technology, University of Science and Technology of China(09/2020-07/2021)
 
-1. Numbered
-2. List
+   * GPA: 87.91/100             
+   
+   * Ranking：25%      
 
-**Bold** and _Italic_ and `Code` text
+* Third year of undergraduate：Class 1, Faculty of Computer Science and Technology, University of Science and Technology of China(09/2021-Present)
 
-[Link](url) and ![Image](src)
-```
+  * to be continue
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+* Mathematics Relevant Coursework: Calculus for Functions of a Single Variable (91/100), Calculus for Functions of Several Variables (92/100), Linear Algebra B1 (94/100), Function of Complex Variable B (90/100), Graph Theory (94/100), Mathematical Logic(92/100), Probability and Statistics B (92/100), Operations Research (97/100)
+* Computer Science Relevant Coursework: Introduction to Computer Systems (H) (97/100), Computer Programming A (92/100), C Language Programming II(95/100), Data Structures (90/100), Syllabus of Digital Logic Lab (98/100), Computer Networks (89/100)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ritaanthem/ritaanthem.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Research Interests
 
-### Support or Contact
+* Computer Vision and Machine Learning
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Research Experience
+
+**Undergraduate Researcher**, [Advanced Computer System Architecture Laboratory](http://acsa.ustc.edu.cn)(ACSA), USTC 
+
+April 2020 - Jul 2021
+
+Advisor: [Prof. Hong An](http://cs.ustc.edu.cn/2020/0426/c23235a460072/page.htm) (USTC)
+
+* ISC21(the International Supercomputing Conference 2021 Student Cluster Competition)(Sixth place in the group, First place in the single application(WRF))
+
+  [ISC Student Cluster Competition](https://www.isc-hpc.com/student-cluster-competition.html)
+  
+  In charge of the WRF application (a next-generation mesoscale numerical weather prediction system designed for both atmospheric research and operational forecasting applications).First place in the single application.
+  
+  * [WRF for ISC21](https://hpcadvisorycouncil.atlassian.net/wiki/spaces/HPCWORKS/pages/1827438600/WRF+with+Single+Domain+-+Practice+case+for+ISC21+SCC)
+  
+**Undergraduate Researcher**, [National Engineering Laboratory for Brain-inspired Intelligence Technology and Application](http://leinao.ustc.edu.cn), USTC
+  
+Sept 2021 - present
+
+Advisor: [Prof. zhengjun Zha](http://sds.ustc.edu.cn/2018/0723/c15528a298806/page.htm) (USTC)
+
+* I'm currently doing research on the topic of Clothes Variation in person re-identification
+  
+## Awards
+
+Outstanding Freshman Scholarship (Grade 1) 2019
+
+Outstanding Student Scholarship (Grade 3) 2020
+
+Third Prize of AnHui Competition Area in The Chinese Mathematics Competitions 2020
+
+Electromagnetism Little Essay Contest(Grade 2) 2021
+
+Outstanding Student Scholarship (Grade 3) 2021
+
+ISC 2021 Student Cluster Competition, Get the sixth place in the group 2021, the first place in the single application
