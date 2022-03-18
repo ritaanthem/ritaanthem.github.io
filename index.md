@@ -60,14 +60,9 @@ Advisor: [Prof. zhengjun Zha](http://sds.ustc.edu.cn/2018/0723/c15528a298806/pag
   
 ## Awards
 
-Outstanding Freshman Scholarship (Grade 1) 2019
-
-Outstanding Student Scholarship (Grade 3) 2020
-
-Third Prize of AnHui Competition Area in The Chinese Mathematics Competitions 2020
-
-Electromagnetism Little Essay Contest(Grade 2) 2021
-
-Outstanding Student Scholarship (Grade 3) 2021
-
-ISC 2021 Student Cluster Competition, Get the sixth place in the group 2021, the first place in the single application
+* Outstanding Freshman Scholarship (Grade 1) 2019
+* Outstanding Student Scholarship (Grade 3) 2020
+* Third Prize of AnHui Competition Area in The Chinese Mathematics Competitions 2020
+* Electromagnetism Little Essay Contest(Grade 2) 2021
+* Outstanding Student Scholarship (Grade 3) 2021
+* ISC 2021 Student Cluster Competition, Get the sixth place in the group 2021, the first place in the single application
