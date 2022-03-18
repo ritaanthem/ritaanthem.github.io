@@ -2,8 +2,6 @@
 
 Email:zyf2001@mail.ustc.edu.cn
 
-Github:[Zhengyufei](https://github.com/ritaanthem)
-
 ## Biography
 
 I am a senior student at the Department of Computer Science and Technology at the University of Science and Technology of China.
