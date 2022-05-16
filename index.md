@@ -54,7 +54,7 @@ Advisor: [Prof. Hong An](http://cs.ustc.edu.cn/2020/0426/c23235a460072/page.htm)
   
 Sept 2021 - present
 
-Advisor: [Prof. zhengjun Zha](http://sds.ustc.edu.cn/2018/0723/c15528a298806/page.htm) (USTC)
+Advisor: Jiawei Liu (USTC)
 
 * I'm currently doing research on the topic of Clothes Variation in person re-identification
   
